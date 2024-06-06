@@ -1,0 +1,6 @@
+<map id="model_mod::on_basin_edge" name="model_mod::on_basin_edge">
+<area shape="rect" id="Node000001" title=" " alt="" coords="252,29,435,55"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="385,17,372,11,343,8,318,10,304,15,301,20,308,27,304,31,296,21,301,11,317,5,343,3,373,6,388,13"/>
+<area shape="rect" id="Node000002" href="$namespacemodel__mod.html#a9362558ec1a05797d58a76be8e6e01b0" title=" " alt="" coords="5,29,204,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,45,204,45,204,40,236,40"/>
+</map>

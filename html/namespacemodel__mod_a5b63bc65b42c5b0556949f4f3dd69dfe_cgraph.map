@@ -1,0 +1,32 @@
+<map id="model_mod::read_model_time" name="model_mod::read_model_time">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,132,201,157"/>
+<area shape="poly" id="edge13_Node000001_Node000001" title=" " alt="" coords="63,133,55,123,60,113,76,107,103,105,133,108,148,115,146,120,132,113,103,110,77,112,63,117,60,122,67,129"/>
+<area shape="rect" id="Node000002" href="$namespacenetcdf__utilities__mod.html#a3ca8549e57aee1a6d21a4445105e44b1" title=" " alt="" coords="277,35,414,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,128,248,86,268,78,270,83,250,91,139,133"/>
+<area shape="rect" id="Node000010" href="$namespacenetcdf__utilities__mod.html#a4d9dc878e11a1d4622d3a0c179f03914" title=" " alt="" coords="266,124,425,165"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="201,142,250,142,250,147,201,147"/>
+<area shape="rect" id="Node000012" href="$namespacetime__manager__mod.html#a49d0e8625bf9d4526a982406e7cd5415" title=" " alt="" coords="249,213,442,239"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="145,155,291,205,289,210,143,160"/>
+<area shape="rect" id="Node000003" href="$namespacenetcdf__utilities__mod.html#a29c7102d0a843d1d2b337f1458756f48" title="remove an entry when file is closed" alt="" coords="506,5,643,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,44,490,34,490,39,415,49"/>
+<area shape="rect" id="Node000004" href="$namespacenetcdf__utilities__mod.html#ab84e952e7df4fd6a0770e9fca314b932" title="check return code from previous call. on error, print and stop. if you want to continue after an erro..." alt="" coords="506,71,643,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="415,63,490,75,489,80,414,68"/>
+<area shape="rect" id="Node000005" href="$namespaceutilities__mod.html#a12b6bcff9ee2f6b821e7a01543fb0dfa" title="write to log and/or standard output, messages, warnings, debug, errors" alt="" coords="712,164,841,205"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="631,110,659,122,725,154,722,159,657,127,629,114"/>
+<area shape="rect" id="Node000009" href="$namespacenetcdf__utilities__mod.html#ad1aed8fb433368a14c78e5dd6102687f" title="look up and return the filename for this handle" alt="" coords="706,71,847,111"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="643,88,691,88,691,94,643,94"/>
+<area shape="rect" id="Node000006" href="$namespaceutilities__mod.html#a9e688ceaa3cb2caac0a21dcf687d21d6" title="call this routine if you find an error before the logfile has been opened." alt="" coords="898,99,1025,139"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="835,161,887,142,889,147,837,166"/>
+<area shape="rect" id="Node000007" href="$namespaceutilities__mod.html#a19b014d0d1c69eb19cb8e2b5454fb428" title="call this routine if you end up in a function or subroutine here that CANNOT be called before the ini..." alt="" coords="898,164,1025,205"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="841,182,882,182,882,187,841,187"/>
+<area shape="rect" id="Node000008" href="$namespaceutilities__mod.html#a54f5adeb1920ae3e09826e1feeb09138" title="if trying to write an unformatted string, like &quot;write(*,*)&quot; to both standard output and the logfile,..." alt="" coords="895,229,1028,255"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="842,202,904,221,902,226,840,207"/>
+<area shape="poly" id="edge11_Node000010_Node000004" title=" " alt="" coords="425,123,490,108,491,113,426,128"/>
+<area shape="poly" id="edge12_Node000010_Node000010" title=" " alt="" coords="302,124,300,114,307,105,322,99,345,97,370,100,385,106,383,111,369,105,345,103,324,105,310,109,305,115,307,123"/>
+<area shape="rect" id="Node000011" href="$namespacenetcdf__utilities__mod.html#ababff78e5667f23477f2dfd91168dc33" title="add file handle and filename to an available slot" alt="" coords="506,136,643,177"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="425,146,490,149,490,155,425,151"/>
+<area shape="poly" id="edge15_Node000012_Node000005" title=" " alt="" coords="442,214,696,189,697,195,443,219"/>
+<area shape="poly" id="edge16_Node000012_Node000012" title=" " alt="" coords="307,214,300,204,304,194,320,188,345,186,373,189,388,196,385,200,372,194,345,191,321,194,308,198,305,204,312,211"/>
+<area shape="rect" id="Node000013" href="$namespacetime__manager__mod.html#a7cd4532f00e5dee5fa8ea45296c85675" title=" " alt="" coords="490,251,658,291"/>
+<area shape="poly" id="edge17_Node000012_Node000013" title=" " alt="" coords="414,237,475,249,474,254,413,242"/>
+</map>

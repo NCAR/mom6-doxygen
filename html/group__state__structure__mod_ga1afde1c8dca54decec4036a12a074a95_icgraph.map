@@ -1,0 +1,70 @@
+<map id="state_structure_mod::do_io_update" name="state_structure_mod::do_io_update">
+<area shape="rect" id="Node000001" title="Returns whether a variable should be updated or not." alt="" coords="1657,649,1797,690"/>
+<area shape="poly" id="edge32_Node000001_Node000001" title=" " alt="" coords="1761,636,1748,630,1727,628,1708,630,1696,635,1691,640,1693,648,1688,649,1686,639,1693,630,1706,625,1727,623,1750,625,1763,631"/>
+<area shape="rect" id="Node000002" href="$group__io__filenames__mod.html#ga41b05e974cbe381ed1f444f3bfe57e95" title="Check that the netcdf file matches the variables for this domain Do you want to overload this to take..." alt="" coords="981,332,1150,373"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1705,638,1664,581,1638,551,1607,527,1551,492,1492,463,1430,438,1368,416,1249,385,1150,366,1151,361,1250,380,1369,411,1432,433,1494,458,1554,488,1611,522,1641,548,1669,577,1709,635"/>
+<area shape="rect" id="Node000007" href="$group__direct__netcdf__mod.html#ga30e5e10d0b1bbc7e42a16ee50f75906f" title="Write variables from start_var to end_var for actual ensemble members." alt="" coords="1443,537,1599,592"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1676,644,1608,607,1584,595,1587,590,1610,602,1679,639"/>
+<area shape="rect" id="Node000023" href="$group__state__structure__mod.html#ga4e71f163add0278fb854eae55a48d6db" title="Print information in the state structure." alt="" coords="1449,681,1593,722"/>
+<area shape="poly" id="edge33_Node000001_Node000023" title=" " alt="" coords="1642,686,1594,693,1593,688,1641,680"/>
+<area shape="rect" id="Node000024" href="$test__state__structure_8f90.html#a435f61b955fd6899d462dda3c753749a" title=" " alt="" coords="1223,790,1360,816"/>
+<area shape="poly" id="edge37_Node000001_Node000024" title=" " alt="" coords="1682,701,1610,736,1545,757,1479,774,1361,797,1360,791,1477,769,1544,752,1608,731,1679,696"/>
+<area shape="rect" id="Node000025" href="$test__state__structure_8f90.html#a23f88b7733fd79d6240bd114c973f0d5" title=" " alt="" coords="1433,797,1609,823"/>
+<area shape="poly" id="edge38_Node000001_Node000025" title=" " alt="" coords="1700,703,1660,743,1610,780,1570,799,1568,794,1608,775,1656,739,1696,700"/>
+<area shape="rect" id="Node000026" href="$group__direct__netcdf__mod.html#ga4797f5013f67a845fdd1ac9aee5bdd9a" title="Write variables from start_var to end_var no clamping." alt="" coords="1453,616,1589,657"/>
+<area shape="poly" id="edge40_Node000001_Node000026" title=" " alt="" coords="1641,659,1589,650,1590,645,1642,653"/>
+<area shape="rect" id="Node000003" href="$group__io__filenames__mod.html#ga84a5562fae8dc096e6b2330ad8da4bbf" title="Check that the netcdf files variables have the correct shape to prevevent overwriting unwanted files." alt="" coords="381,5,550,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1012,327,504,49,507,44,1014,322"/>
+<area shape="rect" id="Node000004" href="$namespacefilter__mod.html#ab534c6a0fba7c3dc09e5e1d7d4081725" title="The code does not use vars arrays except:" alt="" coords="185,70,331,96"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="376,53,308,72,307,67,375,48"/>
+<area shape="rect" id="Node000006" href="$perfect__model__obs_8f90.html#ace838a670d33ed820e1afa9c1965cbf4" title="Program to build an obs_sequence file from simulated observations." alt="" coords="5,146,137,172"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="365,23,322,26,275,32,229,43,186,60,170,70,161,82,139,110,92,148,89,144,135,106,157,79,167,67,183,55,228,38,274,27,321,20,365,18"/>
+<area shape="rect" id="Node000005" href="$filter_8f90.html#a3e86f9737a8d44a69560730870a3b5f4" title="Main DART Ensemble Filtering Program." alt="" coords="48,70,94,96"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="169,86,95,86,95,80,169,80"/>
+<area shape="rect" id="Node000008" href="$group__direct__netcdf__mod.html#gaac697410acb3e6e9c9483c6865694799" title="Transpose from state_ens_handlecopies to the writers according to the memory limit imposed by write_v..." alt="" coords="1201,544,1382,585"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1427,567,1382,567,1382,562,1427,562"/>
+<area shape="rect" id="Node000022" href="$group__direct__netcdf__mod.html#ga5a0dc19e06b1c54e04d3bd0921f674a1" title="Single processor version of transpose write. Takes copies array one row at a time and writes copy to ..." alt="" coords="1198,609,1385,650"/>
+<area shape="poly" id="edge30_Node000007_Node000022" title=" " alt="" coords="1429,593,1366,611,1365,606,1427,588"/>
+<area shape="rect" id="Node000009" href="$group__direct__netcdf__mod.html#ga8ca56c81dfed34ffca506790ad794e1c" title="This code transposes and writes out the state vector copies This can either be done on a single task ..." alt="" coords="998,544,1134,585"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1185,567,1134,567,1134,562,1185,562"/>
+<area shape="rect" id="Node000010" href="$group__state__vector__io__mod.html#ga9e82df2178766c49361ea39cb5ec39c0" title="write the restart information directly into the model netcdf file." alt="" coords="791,421,933,462"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1016,538,896,465,899,460,1019,533"/>
+<area shape="rect" id="Node000011" href="$group__state__vector__io__mod.html#gab0cd1b1a5e523fff63e58b5e32aa137f" title="Write state vectors from an ensemble_handle The inflation handles are options (used by filter,..." alt="" coords="600,380,743,421"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="775,426,742,418,744,413,776,420"/>
+<area shape="poly" id="edge22_Node000011_Node000004" title=" " alt="" coords="634,371,615,348,598,323,586,292,582,263,584,210,584,186,581,163,571,140,551,117,527,100,501,87,444,72,385,69,331,72,331,67,385,63,444,67,503,82,530,95,554,113,575,137,586,161,590,186,589,210,587,263,591,291,603,320,619,345,638,367"/>
+<area shape="poly" id="edge26_Node000011_Node000006" title=" " alt="" coords="635,371,615,348,598,323,588,298,583,275,582,233,582,213,578,195,568,178,551,161,520,147,477,138,423,134,364,133,242,141,137,152,137,147,242,135,364,128,424,128,477,133,522,142,554,157,572,175,583,193,587,213,588,233,589,275,593,297,603,320,619,345,639,367"/>
+<area shape="rect" id="Node000012" href="$namespaceobs__model__mod.html#a03fc749b8153a9183a25baa68e40b6b1" title=" " alt="" coords="379,171,552,211"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="637,370,598,323,584,297,577,274,568,253,551,232,525,214,528,210,554,228,573,251,582,272,589,295,603,320,641,367"/>
+<area shape="rect" id="Node000013" href="$integrate__model_8f90.html#a39361a38d1d1f388f940daadcf81708d" title="Program to integrate assimilation model forward for asynchronous filter execution." alt="" coords="201,222,315,248"/>
+<area shape="poly" id="edge23_Node000011_Node000013" title=" " alt="" coords="643,370,603,327,578,307,551,291,491,267,428,251,367,242,315,238,315,233,368,237,429,246,493,262,554,286,581,303,606,324,647,366"/>
+<area shape="rect" id="Node000014" href="$perfect__model__obs_8f90.html#a58753874ca7dcb34421e47b0b8aab056" title=" " alt="" coords="210,272,306,297"/>
+<area shape="poly" id="edge25_Node000011_Node000014" title=" " alt="" coords="632,373,594,348,551,327,487,308,420,296,306,287,307,282,421,291,488,303,553,322,597,343,635,368"/>
+<area shape="rect" id="Node000015" href="$model__mod__check_8f90.html#a93ebac630e4dec9573eb9da1a1cb2ead" title=" " alt="" coords="416,337,515,363"/>
+<area shape="poly" id="edge17_Node000011_Node000015" title=" " alt="" coords="584,382,515,364,516,359,585,376"/>
+<area shape="rect" id="Node000016" href="$model__mod__check_8f90.html#af2536688a15213cba4ebc6a851a45104" title="Tests model_mod routines. Very useful when adding a new model. This version works for models with any..." alt="" coords="193,388,323,413"/>
+<area shape="poly" id="edge24_Node000011_Node000016" title=" " alt="" coords="585,403,324,403,324,398,585,398"/>
+<area shape="rect" id="Node000017" href="$fill__inflation__restart_8f90.html#a7c606b69ccc4bec7ebfa954764bf201c" title="fill inflation values in a separate file" alt="" coords="407,438,524,464"/>
+<area shape="poly" id="edge19_Node000011_Node000017" title=" " alt="" coords="585,424,521,440,520,435,584,419"/>
+<area shape="rect" id="Node000018" href="$fill__inflation__restart_8f90.html#ac8e72a7b76fdba3de229a655e9e54545" title="Generate initial inflation files from namelist values. This way an experiment can always start from a..." alt="" coords="193,464,323,489"/>
+<area shape="poly" id="edge21_Node000011_Node000018" title=" " alt="" coords="637,433,598,459,553,479,493,491,432,495,374,494,323,489,324,484,374,489,432,490,493,486,552,474,596,454,634,428"/>
+<area shape="rect" id="Node000019" href="$perturb__single__instance_8f90.html#aff26cf01390ffd898782721077437137" title="This is a utility program that computes an ensemble of restarts using the model_mod pert_model_copies..." alt="" coords="387,540,545,565"/>
+<area shape="poly" id="edge27_Node000011_Node000019" title=" " alt="" coords="647,435,606,480,554,523,515,541,513,536,551,518,602,476,643,431"/>
+<area shape="rect" id="Node000020" href="$test__cf__conventions_8f90.html#a5a105288bd6bafb8756891940bbf2497" title=" " alt="" coords="397,638,535,664"/>
+<area shape="poly" id="edge28_Node000011_Node000020" title=" " alt="" coords="664,437,649,481,627,533,596,585,576,608,554,629,536,640,533,635,551,625,572,605,591,581,622,530,644,479,659,435"/>
+<area shape="rect" id="Node000021" href="$test__read__write__restarts_8f90.html#ad75528c600d04f930410d57ba3d4adfc" title=" " alt="" coords="385,589,546,615"/>
+<area shape="poly" id="edge29_Node000011_Node000021" title=" " alt="" coords="659,436,642,470,619,509,589,547,554,580,534,591,532,586,551,576,585,544,614,506,637,468,654,434"/>
+<area shape="poly" id="edge12_Node000012_Node000004" title=" " alt="" coords="410,166,283,99,286,94,413,161"/>
+<area shape="poly" id="edge16_Node000012_Node000006" title=" " alt="" coords="364,185,137,167,137,162,364,180"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="364,215,315,226,314,220,363,210"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="416,221,332,263,304,273,302,268,330,258,414,217"/>
+<area shape="poly" id="edge15_Node000014_Node000006" title=" " alt="" coords="194,268,183,263,152,241,124,217,82,174,86,171,127,213,155,237,186,258,197,264"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="402,368,314,389,313,384,400,363"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="392,463,324,471,323,466,391,457"/>
+<area shape="poly" id="edge31_Node000022_Node000009" title=" " alt="" coords="1204,607,1133,587,1135,581,1205,602"/>
+<area shape="poly" id="edge34_Node000023_Node000016" title=" " alt="" coords="1433,704,1067,704,670,704,625,707,584,712,513,724,479,725,447,719,413,704,377,678,355,652,344,625,342,598,345,570,349,513,344,483,329,453,309,432,286,416,289,411,313,427,333,449,349,482,354,513,350,570,348,598,350,624,360,649,381,674,415,700,448,714,480,719,512,719,583,707,624,701,670,699,1067,699,1433,699"/>
+<area shape="poly" id="edge35_Node000023_Node000020" title=" " alt="" coords="1434,720,1265,743,1166,752,1067,755,860,755,807,752,754,745,650,721,561,692,496,667,498,662,563,687,652,716,755,740,808,747,861,750,1067,750,1165,746,1264,738,1433,714"/>
+<area shape="poly" id="edge36_Node000023_Node000024" title=" " alt="" coords="1457,731,1434,743,1410,758,1386,773,1339,792,1337,787,1383,769,1407,754,1431,738,1454,727"/>
+<area shape="poly" id="edge39_Node000025_Node000024" title=" " alt="" coords="1417,809,1361,808,1361,802,1417,804"/>
+<area shape="poly" id="edge41_Node000026_Node000008" title=" " alt="" coords="1439,613,1358,588,1359,583,1440,608"/>
+<area shape="poly" id="edge42_Node000026_Node000022" title=" " alt="" coords="1437,637,1385,635,1385,630,1437,631"/>
+</map>
