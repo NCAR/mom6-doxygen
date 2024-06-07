@@ -1,83 +1,67 @@
 <map id="obs_def_mod::get_obs_def_location" name="obs_def_mod::get_obs_def_location">
-<area shape="rect" id="Node000001" title=" " alt="" coords="872,717,1025,757"/>
-<area shape="poly" id="edge13_Node000001_Node000001" title=" " alt="" coords="984,703,970,697,948,695,928,697,915,702,911,708,913,715,907,716,905,707,912,698,927,692,948,690,972,692,986,698"/>
-<area shape="rect" id="Node000002" href="$obs__common__subset_8f90.html#afc732fdce8e41aac5d7c721997c91625" title=" " alt="" coords="697,29,766,55"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="942,702,932,565,910,378,894,283,874,196,850,125,836,97,822,76,796,58,766,48,767,43,798,53,826,72,841,94,855,123,879,195,899,282,915,377,937,565,948,701"/>
-<area shape="rect" id="Node000003" href="$obs__common__subset_8f90.html#a8b66d32fe5d972601e71a8646f1ab1e5" title="This program takes as input one or more sets of N obs_seq filenames. N is usually 2,..." alt="" coords="427,55,572,80"/>
-<area shape="poly" id="edge24_Node000001_Node000003" title=" " alt="" coords="942,701,931,574,909,403,893,317,873,239,850,176,836,151,822,133,805,122,781,111,716,95,642,83,572,75,573,70,643,77,717,89,783,106,808,117,825,130,841,149,854,173,878,237,898,316,914,402,937,574,947,701"/>
-<area shape="rect" id="Node000004" href="$group__assim__tools.html#gab4b7bf8f54732acb065128ff3aebeac8" title=" " alt="" coords="422,155,578,196"/>
-<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="942,701,932,580,910,418,894,338,874,265,850,208,837,186,822,171,792,152,759,140,724,134,689,133,618,142,558,157,556,152,617,136,688,128,725,129,761,135,795,147,825,167,841,183,855,205,879,264,900,336,916,417,937,579,948,701"/>
-<area shape="rect" id="Node000007" href="$namespaceobs__def__upper__atm__mod.html#a99cfd05bcfa5ba9f77fb020e4bba865d" title="Given DART state vector and a location, it computes O+ density [1/cm^3]. The istatus variable should ..." alt="" coords="648,245,815,301"/>
-<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="943,701,935,625,916,525,901,471,880,418,854,367,822,321,801,303,805,299,826,318,859,365,885,416,906,470,921,524,941,624,948,701"/>
-<area shape="rect" id="Node000009" href="$interfaceobs__def__mod_1_1operator_07_2_0a_08.html#af34f5a5cdb07ed6f9c53e39faedb6b98" title=" " alt="" coords="206,286,360,327"/>
-<area shape="poly" id="edge18_Node000001_Node000009" title=" " alt="" coords="944,701,939,629,921,536,906,489,885,443,857,401,822,366,764,354,639,339,360,315,361,309,640,334,765,348,825,361,861,398,889,440,911,487,927,535,944,628,950,701"/>
-<area shape="rect" id="Node000010" href="$group__assim__tools.html#ga9d6d6a8546085bcdbae0d133923e69ee" title="gets the location of of all my observations" alt="" coords="657,181,806,221"/>
-<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="940,701,925,595,899,455,883,385,865,322,844,270,822,235,805,221,808,217,826,231,849,268,870,320,888,384,905,454,930,594,945,701"/>
-<area shape="rect" id="Node000011" href="$obs__selection_8f90.html#ae3d1dd30448e6aa20a277751cfa801f5" title=" " alt="" coords="677,400,786,426"/>
-<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="939,701,926,646,904,577,870,507,848,475,822,447,805,435,785,426,787,421,807,430,825,443,852,472,875,505,909,575,931,644,944,700"/>
-<area shape="rect" id="Node000012" href="$obs__selection_8f90.html#ae0a5e2129919328ec440dc46f6f9a127" title="This specialized tool selects a subset of input observations from an observation sequence file." alt="" coords="449,425,550,451"/>
-<area shape="poly" id="edge30_Node000001_Node000012" title=" " alt="" coords="938,702,924,653,901,595,868,538,847,513,822,491,802,480,774,471,701,457,550,443,551,438,701,452,775,466,804,476,825,487,851,509,872,535,906,593,929,651,943,701"/>
-<area shape="rect" id="Node000013" href="$littler__tf__dart_8f90.html#af7d6971f0acdb03d88555188bfb7a879" title=" " alt="" coords="685,501,778,527"/>
-<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="933,704,916,665,892,621,861,577,822,540,801,529,778,522,780,517,803,524,825,536,865,574,896,618,921,663,937,702"/>
-<area shape="rect" id="Node000014" href="$group__assim__tools.html#gab0fae815c5bbbcdee7955cc199da5509" title=" " alt="" coords="639,551,824,576"/>
-<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="926,704,883,645,854,615,822,590,801,579,803,575,825,585,858,611,887,642,930,701"/>
-<area shape="rect" id="Node000018" href="$obs__assim__count_8f90.html#ada4cdecc804ac1df1d80a8fe9cd7e881" title="Prints out a quick table of obs types and counts, overall start and stop times, and metadata strings ..." alt="" coords="670,600,793,626"/>
-<area shape="poly" id="edge23_Node000001_Node000018" title=" " alt="" coords="915,708,873,672,822,639,793,628,795,623,825,634,876,668,918,704"/>
-<area shape="rect" id="Node000019" href="$obs__data__denial_8f90.html#af7981b7b92a280ee34fc61a26d02f598" title="open an obs_seq file and randomly change the error variance of N of each obs type to a huge value bef..." alt="" coords="674,649,789,675"/>
-<area shape="poly" id="edge25_Node000001_Node000019" title=" " alt="" coords="885,712,823,689,788,678,789,673,825,684,887,708"/>
-<area shape="rect" id="Node000020" href="$oned_2obs__diag_8f90.html#a49df113f5e46e0b211de40cd078946f1" title="The programs defines a series of epochs (periods of time) and geographic regions and accumulates stat..." alt="" coords="695,699,768,724"/>
-<area shape="poly" id="edge26_Node000001_Node000020" title=" " alt="" coords="856,729,768,718,769,713,857,723"/>
-<area shape="rect" id="Node000021" href="$obs__info_8f90.html#a028f6bea14ec91026277e4673e4770fa" title="print out information about observation sequence file(s). summarizes obs types, times,..." alt="" coords="696,748,767,774"/>
-<area shape="poly" id="edge27_Node000001_Node000021" title=" " alt="" coords="857,750,767,760,767,754,856,744"/>
-<area shape="rect" id="Node000022" href="$obs__keep__a__few_8f90.html#a6f18c4b5eb7d5fa9433516b5e6264b2a" title="open an obs_seq file and copy over the first N of each obs type to the output file...." alt="" coords="672,797,791,823"/>
-<area shape="poly" id="edge28_Node000001_Node000022" title=" " alt="" coords="886,766,825,789,789,799,787,794,823,784,884,761"/>
-<area shape="rect" id="Node000023" href="$obs__loop_8f90.html#a8cf943d6323b74d7cef0c8a410562366" title="Simple program that opens an obs_seq file and loops over the observations and copies them to a new ou..." alt="" coords="695,847,768,872"/>
-<area shape="poly" id="edge29_Node000001_Node000023" title=" " alt="" coords="918,770,876,805,825,838,797,849,769,856,768,851,795,844,822,833,872,801,914,766"/>
-<area shape="rect" id="Node000024" href="$obs__seq__coverage_8f90.html#a2fb8c284b152ad566d3a1fa3cda5edb0" title="This program queries a bunch of obs_seq.xxxx files and tries to figure out &#39;voxel coverage&#39; ...." alt="" coords="666,896,797,922"/>
-<area shape="poly" id="edge31_Node000001_Node000024" title=" " alt="" coords="930,772,887,831,858,861,825,887,798,900,796,895,822,883,854,857,883,828,926,769"/>
-<area shape="rect" id="Node000025" href="$obs__seq__to__netcdf_8f90.html#ad732bed83e989d8d22e30893a97086ef" title="converts an observation sequence file to a netCDF file but only retains basic metadata...." alt="" coords="666,945,797,971"/>
-<area shape="poly" id="edge32_Node000001_Node000025" title=" " alt="" coords="937,773,920,811,896,855,864,899,825,936,799,950,796,945,822,932,860,896,892,852,915,809,932,770"/>
-<area shape="rect" id="Node000026" href="$obs__seq__verify_8f90.html#afd1a50e6d0349bbf223a11d9ff1082e6" title="This program creates a netCDF file suitable for forecast evaluation." alt="" coords="677,995,786,1020"/>
-<area shape="poly" id="edge33_Node000001_Node000026" title=" " alt="" coords="942,773,927,821,904,879,871,936,849,963,825,986,807,997,788,1004,786,999,805,992,822,981,846,959,866,933,899,876,922,820,937,772"/>
-<area shape="rect" id="Node000027" href="$obs__sequence__tool_8f90.html#ad68db579dd1c8b4cc28c4535f471226a" title="Change observation sequence files by adding or removing observations based on type,..." alt="" coords="216,1357,350,1383"/>
-<area shape="poly" id="edge34_Node000001_Node000027" title=" " alt="" coords="945,773,934,831,913,902,897,939,877,974,854,1007,825,1035,798,1055,771,1069,719,1084,668,1086,617,1081,567,1077,516,1078,464,1091,437,1104,410,1123,382,1149,358,1180,338,1213,322,1248,300,1312,289,1357,284,1356,295,1310,317,1246,334,1211,354,1177,378,1146,406,1119,434,1100,462,1086,515,1073,567,1071,618,1076,668,1080,718,1079,769,1064,795,1050,822,1031,850,1003,873,971,892,936,908,900,929,830,940,772"/>
-<area shape="rect" id="Node000028" href="$obs__sort_8f90.html#a208d8587162c761288700d6877135ed3" title=" " alt="" coords="464,1133,535,1159"/>
-<area shape="poly" id="edge35_Node000001_Node000028" title=" " alt="" coords="948,773,939,839,919,921,903,965,883,1007,857,1045,825,1079,803,1093,772,1104,692,1124,606,1137,536,1146,535,1140,605,1132,691,1119,770,1099,801,1088,822,1075,853,1042,878,1004,898,963,914,920,934,838,942,772"/>
-<area shape="rect" id="Node000029" href="$obs__total__error_8f90.html#afa36f4d31e97abdba9a7e91118af5c7c" title="Prints out a quick summary number of the total error in the mean and spread. This should be run on an..." alt="" coords="678,1147,785,1172"/>
-<area shape="poly" id="edge36_Node000001_Node000029" title=" " alt="" coords="949,773,942,846,923,941,907,992,886,1041,859,1088,826,1129,807,1143,787,1152,785,1147,805,1139,822,1126,855,1085,881,1039,902,990,917,940,936,845,943,772"/>
-<area shape="rect" id="Node000030" href="$namespacespecial__sort.html#a0eed41a10dda4d0a88a9e0af48ba8c0a" title=" " alt="" coords="660,1220,803,1246"/>
-<area shape="poly" id="edge37_Node000001_Node000030" title=" " alt="" coords="949,773,943,854,924,963,909,1021,888,1080,860,1136,826,1187,802,1207,776,1222,773,1217,799,1203,822,1183,856,1133,883,1078,904,1020,919,962,938,854,944,773"/>
-<area shape="rect" id="Node000032" href="$namespaceobs__utilities__mod.html#a36a86cb6bc3f53279d152667edce54d7" title="takes a DART observation type and extracts the constituent pieces" alt="" coords="666,1270,797,1311"/>
-<area shape="poly" id="edge41_Node000001_Node000032" title=" " alt="" coords="946,773,931,883,906,1028,890,1101,871,1167,850,1222,826,1260,798,1279,795,1275,822,1256,845,1219,866,1165,884,1099,901,1027,926,882,940,772"/>
-<area shape="rect" id="Node000033" href="$radiance__obs__seq__to__netcdf_8f90.html#aff018c2df5b56ad95b5af554a214375e" title="converts an observation sequence file to a netCDF file but only retains basic metadata for most obser..." alt="" coords="659,1335,804,1376"/>
-<area shape="poly" id="edge42_Node000001_Node000033" title=" " alt="" coords="947,772,934,895,910,1059,894,1142,874,1218,852,1280,826,1324,806,1340,802,1336,822,1320,847,1278,869,1216,888,1141,905,1058,928,894,941,772"/>
-<area shape="rect" id="Node000034" href="$namespaceobs__sequence__mod.html#a4907802d911a7f17c51506371a5566b5" title=" " alt="" coords="641,1401,822,1441"/>
-<area shape="poly" id="edge43_Node000001_Node000034" title=" " alt="" coords="947,773,936,908,914,1091,898,1184,878,1269,854,1340,840,1368,826,1389,811,1402,808,1398,822,1386,836,1365,849,1338,873,1268,892,1183,909,1090,931,907,942,773"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="769,17,757,10,731,8,709,10,696,15,694,20,700,27,695,31,688,21,693,11,707,5,732,3,758,5,772,12"/>
-<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="682,50,573,62,573,57,681,45"/>
-<area shape="rect" id="Node000005" href="$namespacefilter__mod.html#ab534c6a0fba7c3dc09e5e1d7d4081725" title="The code does not use vars arrays except:" alt="" coords="210,163,356,188"/>
-<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="406,178,356,178,356,173,406,173"/>
-<area shape="rect" id="Node000006" href="$filter_8f90.html#a3e86f9737a8d44a69560730870a3b5f4" title="Main DART Ensemble Filtering Program." alt="" coords="58,163,105,188"/>
-<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="194,178,105,178,105,173,194,173"/>
-<area shape="rect" id="Node000008" href="$namespaceobs__def__upper__atm__mod.html#a0a9cefbc594df12ed90be50fed80b9a1" title="Common interface for electron density forward operators. If there is a variable in the DART state tha..." alt="" coords="416,245,583,301"/>
-<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="632,284,584,284,584,279,632,279"/>
-<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="599,261,647,261,647,267,599,267"/>
-<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="401,291,361,297,360,292,400,285"/>
-<area shape="poly" id="edge12_Node000010_Node000004" title=" " alt="" coords="641,194,578,187,578,181,642,188"/>
-<area shape="poly" id="edge15_Node000011_Node000011" title=" " alt="" coords="769,388,757,381,731,379,709,381,696,385,694,391,700,398,695,401,688,391,693,382,707,375,732,373,758,376,772,383"/>
-<area shape="poly" id="edge16_Node000011_Node000012" title=" " alt="" coords="662,423,551,435,550,430,662,418"/>
-<area shape="rect" id="Node000015" href="$group__assim__tools.html#ga7f1e7c063ef75066add474037ec8baa2" title=" " alt="" coords="408,543,591,584"/>
-<area shape="poly" id="edge20_Node000014_Node000015" title=" " alt="" coords="624,566,592,566,592,561,624,561"/>
-<area shape="rect" id="Node000016" href="$group__assim__tools.html#ga10ecfc6fb93345904db77fc302bcf51c" title=" " alt="" coords="207,543,359,584"/>
-<area shape="poly" id="edge21_Node000015_Node000016" title=" " alt="" coords="392,566,360,566,360,561,392,561"/>
-<area shape="rect" id="Node000017" href="$group__assim__tools.html#ga2ac5e3d946af96ce43d26d9eb13c95b9" title=" " alt="" coords="5,543,158,584"/>
-<area shape="poly" id="edge22_Node000016_Node000017" title=" " alt="" coords="191,566,158,566,158,561,191,561"/>
-<area shape="poly" id="edge39_Node000030_Node000028" title=" " alt="" coords="680,1217,535,1162,537,1157,682,1212"/>
-<area shape="poly" id="edge40_Node000030_Node000030" title=" " alt="" coords="769,1208,757,1201,731,1199,709,1201,696,1205,694,1211,700,1218,695,1221,688,1211,693,1202,707,1195,732,1193,758,1196,772,1203"/>
-<area shape="rect" id="Node000031" href="$obs__remove__dups_8f90.html#af339898251b49d93557a3f5064abfac5" title="simple program that opens an obs_seq file and loops over the obs" alt="" coords="436,1220,563,1246"/>
-<area shape="poly" id="edge38_Node000030_Node000031" title=" " alt="" coords="645,1236,564,1236,564,1230,645,1230"/>
-<area shape="poly" id="edge44_Node000034_Node000027" title=" " alt="" coords="625,1403,591,1398,463,1385,349,1376,350,1371,463,1379,592,1393,626,1398"/>
-<area shape="rect" id="Node000035" href="$obs__sequence__tool_8f90.html#a1c1f2230a97324fbe70b484995327b10" title=" " alt="" coords="464,1408,535,1434"/>
-<area shape="poly" id="edge45_Node000034_Node000035" title=" " alt="" coords="626,1424,536,1424,536,1418,626,1418"/>
-<area shape="poly" id="edge46_Node000035_Node000027" title=" " alt="" coords="448,1412,341,1386,342,1381,449,1406"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="727,610,880,651"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="838,597,825,591,803,588,783,590,771,595,766,601,768,609,763,610,761,600,767,591,782,585,803,583,827,586,840,592"/>
+<area shape="rect" id="Node000002" href="$obs__common__subset_8f90.html#afc732fdce8e41aac5d7c721997c91625" title=" " alt="" coords="554,29,623,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="796,595,782,478,758,323,742,245,723,174,701,116,677,76,652,58,623,49,624,44,654,53,681,72,706,113,728,172,747,244,763,322,787,477,801,594"/>
+<area shape="rect" id="Node000003" href="$obs__common__subset_8f90.html#a8b66d32fe5d972601e71a8646f1ab1e5" title="This program takes as input one or more sets of N obs_seq filenames. N is usually 2,..." alt="" coords="300,55,445,80"/>
+<area shape="poly" id="edge15_Node000001_Node000003" title=" " alt="" coords="795,595,781,488,756,350,740,281,721,219,700,168,677,135,661,124,639,114,579,98,510,85,445,77,446,71,511,80,580,92,640,109,664,119,681,131,705,166,726,217,745,280,762,349,786,488,801,594"/>
+<area shape="rect" id="Node000004" href="$group__assim__tools.html#ga593869155163638696fb5a3f593a79b4" title=" " alt="" coords="294,153,450,193"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="795,595,781,494,757,365,741,301,722,245,701,200,677,171,650,154,620,143,588,138,555,136,491,142,435,154,434,149,491,136,555,130,589,132,621,138,652,150,680,167,705,197,727,243,746,300,762,364,787,493,801,594"/>
+<area shape="rect" id="Node000007" href="$group__assim__tools.html#ga9d6d6a8546085bcdbae0d133923e69ee" title="gets the location of of all my observations" alt="" coords="514,181,663,221"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="798,594,792,520,773,424,757,373,737,323,710,276,677,235,662,223,665,219,681,231,714,273,741,321,762,371,778,423,797,519,804,594"/>
+<area shape="rect" id="Node000008" href="$obs__selection_8f90.html#ae3d1dd30448e6aa20a277751cfa801f5" title=" " alt="" coords="534,269,643,295"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="795,595,784,535,762,460,747,421,728,383,704,348,677,316,661,304,642,296,644,291,663,299,680,312,709,344,732,381,752,419,767,459,789,534,800,594"/>
+<area shape="rect" id="Node000009" href="$obs__selection_8f90.html#ae0a5e2129919328ec440dc46f6f9a127" title="This specialized tool selects a subset of input observations from an observation sequence file." alt="" coords="322,295,423,320"/>
+<area shape="poly" id="edge21_Node000001_Node000009" title=" " alt="" coords="794,595,782,541,760,477,726,413,703,385,677,360,658,350,632,341,564,327,423,313,423,307,565,322,634,336,661,345,680,356,707,381,730,410,765,475,787,540,799,594"/>
+<area shape="rect" id="Node000010" href="$littler__tf__dart_8f90.html#af7d6971f0acdb03d88555188bfb7a879" title=" " alt="" coords="542,371,635,396"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="790,596,774,553,750,502,718,452,677,410,657,398,635,391,636,386,659,393,680,405,722,449,755,500,779,551,795,594"/>
+<area shape="rect" id="Node000011" href="$obs__assim__count_8f90.html#ada4cdecc804ac1df1d80a8fe9cd7e881" title="Prints out a quick table of obs types and counts, overall start and stop times, and metadata strings ..." alt="" coords="527,420,650,446"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="784,597,742,526,712,490,677,459,649,446,652,441,680,455,716,486,747,523,789,594"/>
+<area shape="rect" id="Node000012" href="$obs__data__denial_8f90.html#af7981b7b92a280ee34fc61a26d02f598" title="open an obs_seq file and randomly change the error variance of N of each obs type to a huge value bef..." alt="" coords="531,469,646,495"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="776,599,733,552,706,528,677,509,646,495,648,490,680,504,709,524,737,548,779,595"/>
+<area shape="rect" id="Node000013" href="$oned_2obs__diag_8f90.html#a49df113f5e46e0b211de40cd078946f1" title="The programs defines a series of epochs (periods of time) and geographic regions and accumulates stat..." alt="" coords="552,519,625,544"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="759,603,720,580,678,558,625,541,626,536,680,553,723,575,762,599"/>
+<area shape="rect" id="Node000014" href="$obs__info_8f90.html#a028f6bea14ec91026277e4673e4770fa" title="print out information about observation sequence file(s). summarizes obs types, times,..." alt="" coords="553,568,624,594"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="711,612,623,591,624,586,712,607"/>
+<area shape="rect" id="Node000015" href="$obs__keep__a__few_8f90.html#a6f18c4b5eb7d5fa9433516b5e6264b2a" title="open an obs_seq file and copy over the first N of each obs type to the output file...." alt="" coords="529,617,648,643"/>
+<area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="711,633,649,633,649,628,711,628"/>
+<area shape="rect" id="Node000016" href="$obs__loop_8f90.html#a8cf943d6323b74d7cef0c8a410562366" title="Simple program that opens an obs_seq file and loops over the observations and copies them to a new ou..." alt="" coords="552,667,625,692"/>
+<area shape="poly" id="edge20_Node000001_Node000016" title=" " alt="" coords="712,654,626,674,625,669,711,649"/>
+<area shape="rect" id="Node000017" href="$obs__seq__coverage_8f90.html#a2fb8c284b152ad566d3a1fa3cda5edb0" title="This program queries a bunch of obs_seq.xxxx files and tries to figure out &#39;voxel coverage&#39; ...." alt="" coords="523,716,654,742"/>
+<area shape="poly" id="edge22_Node000001_Node000017" title=" " alt="" coords="762,661,723,685,680,707,650,718,648,713,678,702,720,681,759,657"/>
+<area shape="rect" id="Node000018" href="$obs__seq__to__netcdf_8f90.html#ad732bed83e989d8d22e30893a97086ef" title="converts an observation sequence file to a netCDF file but only retains basic metadata...." alt="" coords="523,765,654,791"/>
+<area shape="poly" id="edge23_Node000001_Node000018" title=" " alt="" coords="779,665,737,712,709,736,680,756,656,767,653,763,677,752,706,732,733,709,776,661"/>
+<area shape="rect" id="Node000019" href="$obs__seq__verify_8f90.html#afd1a50e6d0349bbf223a11d9ff1082e6" title="This program creates a netCDF file suitable for forecast evaluation." alt="" coords="534,815,643,840"/>
+<area shape="poly" id="edge24_Node000001_Node000019" title=" " alt="" coords="789,666,747,737,716,774,680,806,645,822,643,817,677,801,712,771,742,734,784,663"/>
+<area shape="rect" id="Node000020" href="$obs__sequence__tool_8f90.html#ad68db579dd1c8b4cc28c4535f471226a" title="Change observation sequence files by adding or removing observations based on type,..." alt="" coords="106,1177,240,1203"/>
+<area shape="poly" id="edge25_Node000001_Node000020" title=" " alt="" coords="795,666,780,710,756,761,723,812,703,835,680,855,629,885,579,898,531,901,485,898,439,895,393,898,345,912,296,943,268,969,245,1000,226,1034,211,1068,189,1132,179,1177,174,1176,184,1131,206,1066,221,1031,241,997,264,966,292,939,343,908,392,893,439,890,485,893,532,895,578,893,626,880,677,851,699,831,719,809,751,759,775,708,790,665"/>
+<area shape="rect" id="Node000021" href="$obs__sort_8f90.html#a208d8587162c761288700d6877135ed3" title=" " alt="" coords="337,953,408,979"/>
+<area shape="poly" id="edge26_Node000001_Node000021" title=" " alt="" coords="799,666,786,719,763,782,729,845,706,874,680,899,659,911,630,923,555,941,408,965,408,960,554,936,628,917,657,907,677,895,702,870,724,842,758,779,780,717,793,665"/>
+<area shape="rect" id="Node000022" href="$obs__total__error_8f90.html#afa36f4d31e97abdba9a7e91118af5c7c" title="Prints out a quick summary number of the total error in the mean and spread. This should be run on an..." alt="" coords="535,967,642,992"/>
+<area shape="poly" id="edge27_Node000001_Node000022" title=" " alt="" coords="800,666,789,727,768,802,752,842,732,881,709,917,680,949,663,962,644,971,641,966,660,958,677,946,705,914,728,878,747,840,763,800,784,725,795,665"/>
+<area shape="rect" id="Node000023" href="$namespacespecial__sort.html#a0eed41a10dda4d0a88a9e0af48ba8c0a" title=" " alt="" coords="517,1040,660,1066"/>
+<area shape="poly" id="edge28_Node000001_Node000023" title=" " alt="" coords="802,666,792,735,771,825,755,873,735,920,710,965,681,1007,657,1027,630,1042,628,1037,654,1023,677,1003,706,962,730,918,750,871,765,823,786,734,796,666"/>
+<area shape="rect" id="Node000025" href="$namespaceobs__utilities__mod.html#a36a86cb6bc3f53279d152667edce54d7" title="takes a DART observation type and extracts the constituent pieces" alt="" coords="523,1090,654,1131"/>
+<area shape="poly" id="edge32_Node000001_Node000025" title=" " alt="" coords="805,666,801,749,784,859,769,918,747,976,718,1031,681,1080,656,1098,653,1093,677,1076,713,1028,742,974,764,917,779,858,796,749,800,666"/>
+<area shape="rect" id="Node000026" href="$radiance__obs__seq__to__netcdf_8f90.html#aff018c2df5b56ad95b5af554a214375e" title="converts an observation sequence file to a netCDF file but only retains basic metadata for most obser..." alt="" coords="516,1155,661,1196"/>
+<area shape="poly" id="edge33_Node000001_Node000026" title=" " alt="" coords="800,666,785,774,760,916,744,988,725,1053,704,1106,681,1144,663,1159,659,1154,677,1140,699,1104,720,1051,738,986,755,915,780,773,795,665"/>
+<area shape="rect" id="Node000027" href="$namespaceobs__sequence__mod.html#a4907802d911a7f17c51506371a5566b5" title=" " alt="" coords="498,1221,679,1261"/>
+<area shape="poly" id="edge34_Node000001_Node000027" title=" " alt="" coords="801,666,788,787,764,949,748,1030,729,1105,706,1166,681,1209,666,1222,662,1218,677,1206,701,1164,723,1103,743,1029,759,948,783,786,796,666"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="626,17,613,10,588,8,566,10,554,15,551,20,557,27,553,31,546,21,550,11,565,5,589,3,615,5,628,12"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="539,51,446,62,445,56,538,45"/>
+<area shape="rect" id="Node000005" href="$namespacefilter__mod.html#abfe5d4c835d0046ed1e49f24094a01ff" title="The code does not use vars arrays except:" alt="" coords="100,160,246,186"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="279,176,247,176,247,170,279,170"/>
+<area shape="rect" id="Node000006" href="$filter_8f90.html#a3e86f9737a8d44a69560730870a3b5f4" title="Main DART Ensemble Filtering Program." alt="" coords="5,160,52,186"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="84,176,52,176,52,170,84,170"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="498,192,450,186,451,180,499,187"/>
+<area shape="poly" id="edge11_Node000008_Node000008" title=" " alt="" coords="626,257,613,250,588,248,566,250,554,255,551,260,557,267,553,271,546,261,550,251,565,245,589,243,615,245,628,252"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="519,293,424,304,423,299,518,288"/>
+<area shape="poly" id="edge30_Node000023_Node000021" title=" " alt="" coords="539,1036,405,982,407,977,541,1031"/>
+<area shape="poly" id="edge31_Node000023_Node000023" title=" " alt="" coords="626,1028,613,1021,588,1019,566,1021,554,1025,551,1031,557,1038,553,1041,546,1031,550,1022,565,1015,589,1013,615,1016,628,1023"/>
+<area shape="rect" id="Node000024" href="$obs__remove__dups_8f90.html#af339898251b49d93557a3f5064abfac5" title="simple program that opens an obs_seq file and loops over the obs" alt="" coords="309,1040,436,1066"/>
+<area shape="poly" id="edge29_Node000023_Node000024" title=" " alt="" coords="502,1056,436,1056,436,1050,502,1050"/>
+<area shape="poly" id="edge35_Node000027_Node000020" title=" " alt="" coords="483,1223,450,1218,339,1205,239,1197,240,1192,339,1200,451,1213,483,1218"/>
+<area shape="rect" id="Node000028" href="$obs__sequence__tool_8f90.html#a1c1f2230a97324fbe70b484995327b10" title=" " alt="" coords="337,1228,408,1254"/>
+<area shape="poly" id="edge36_Node000027_Node000028" title=" " alt="" coords="483,1244,408,1244,408,1238,483,1238"/>
+<area shape="poly" id="edge37_Node000028_Node000020" title=" " alt="" coords="321,1231,226,1206,227,1201,322,1225"/>
 </map>
